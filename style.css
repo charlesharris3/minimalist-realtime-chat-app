@@ -82,7 +82,7 @@ body {
 .message-button-container{
     display: flex;
     position: absolute;
-    bottom: 100px;
+    bottom: 30px;
     width: 95%;
 }
 
@@ -106,6 +106,7 @@ body {
 
     .message-button-container{
         width: 95%;
+        bottom: 30px;
     }
 }
 
@@ -117,5 +118,6 @@ body {
 
     .message-button-container{
         width: 60%;
+        bottom: 100px;
     }
 }
