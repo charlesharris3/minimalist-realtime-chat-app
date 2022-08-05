@@ -1,0 +1,25 @@
+{
+  "name": "minimalist-realtime-chat-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesharris3/minimalist-realtime-chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesharris3/minimalist-realtime-chat-app/issues"
+  },
+  "homepage": "https://github.com/charlesharris3/minimalist-realtime-chat-app#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
